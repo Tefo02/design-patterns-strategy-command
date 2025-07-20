@@ -8,6 +8,6 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.release>21</maven.compiler.release>
-        <exec.mainClass>br.edu.ifnmg.sld2.design.patterns.stefano.DesignPatternsStefano</exec.mainClass>
+        <exec.mainClass>patterns.strategy.StrategyMain</exec.mainClass>
     </properties>
 </project>

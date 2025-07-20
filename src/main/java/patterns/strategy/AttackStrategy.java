@@ -4,6 +4,6 @@ package patterns.strategy;
  * @author stefo
  */
 
-public class AttackStrategy {
-    
+public interface AttackStrategy {
+    void attack();
 }
