@@ -4,10 +4,10 @@ package patterns.strategy;
  * @author stefo
  */
 
-public class Character {
+public class GameCharacter {
     private AttackStrategy attackStrategy;
     
-    public Character(AttackStrategy attackStrategy) {
+    public GameCharacter(AttackStrategy attackStrategy) {
         this.attackStrategy = attackStrategy;
     }
 
