@@ -4,6 +4,6 @@ package patterns.command;
  * @author stefo
  */
 
-public class ConcreteCommandA {
+public class TurnOffCommand {
     
 }

@@ -4,6 +4,6 @@ package patterns.strategy;
  * @author stefo
  */
 
-public class ConcreteStrategyA {
+public class Character {
     
 }
