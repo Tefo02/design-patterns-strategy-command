@@ -18,7 +18,7 @@ O padrão Strategy define uma família de algoritmos, encapsula cada um deles e 
   - Classe `GameCharacter` que usa uma `AttackStrategy`
 
 ### Diagrama UML Strategy
-![Diagrama Strategy](https://imgur.com/a/WJTODAy)  
+![Diagrama Strategy](images/StrategyUML.png)  
 
 ---
 
@@ -35,7 +35,7 @@ O padrão Command encapsula uma solicitação como um objeto, permitindo paramet
   - Invocador (`RemoteControl`)
 
 ### Diagrama UML Command
-![Diagrama Command](https://imgur.com/a/hqrHWah)  
+![Diagrama Command](images/CommandUML.png)  
 
 ---
 
